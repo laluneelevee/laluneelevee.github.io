@@ -1,0 +1,507 @@
+h{
+    "0": {
+        "text": "高校の帰路に公園に立ち寄った", 
+        "name": "", 
+        "loc": "center"
+    }, 
+    "1": {
+        "text": "桜が綺麗に咲いていたからだ", 
+        "name": "", 
+        "loc": "center"
+    }, 
+    "2": {
+        "text": "どうして、花を見ようと思ったのか", 
+        "name": "", 
+        "loc": "center"
+    }, 
+    "3": {
+        "text": "自分でも明確な理由は分からない", 
+        "name": "", 
+        "loc": "center"
+    }, 
+    "4": {
+        "text": "ただ、花びらが落下する様子を間近で見たかったから", 
+        "name": "", 
+        "loc": "center"
+    }, 
+    "5": {
+        "text": "たったそれだけの理由", 
+        "name": "", 
+        "loc": "center"
+    }, 
+    "6": {
+        "text": "公園のベンチには女性が１人座っていた", 
+        "name": "", 
+        "loc": "center"
+    }, 
+    "7": {
+        "text": "彼女は雨が降っていないのに傘を差していた", 
+        "name": "", 
+        "loc": "center"
+    }, 
+    "8": {
+        "text": "一枚の花びらが傘へと着地した", 
+        "name": "", 
+        "loc": "center"
+    }, 
+    "9": {
+        "text": "どうして、傘を差しているの？", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "10": {
+        "text": "おかしいでしょうか？", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "11": {
+        "text": "おかしいとは思わないけれど、不思議ではあるかな", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "12": {
+        "text": "理由を知りたいのですね？", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "13": {
+        "text": "そうだね", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "14": {
+        "text": "雨が降っているからです", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "15": {
+        "text": "雨は降っていないよ", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "16": {
+        "text": "解釈は人それぞれです", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "17": {
+        "text": "もしかして、泣いている？", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "18": {
+        "text": "泣いていません", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "19": {
+        "text": "それじゃあ、桜の花びらを遮っているのかな？", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "20": {
+        "text": "えぇ、その通りです", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "21": {
+        "text": "不思議な人だ", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "22": {
+        "text": "私からすれば、その不思議な相手に話しかけるあなたが不思議な存在です", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "23": {
+        "text": "何でだろう", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "24": {
+        "text": "桜が綺麗だったからかな", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "25": {
+        "text": "なるほど", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "26": {
+        "text": "それで理解したの？", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "27": {
+        "text": "充分な理由です", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "28": {
+        "text": "あなたの名前は？", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "29": {
+        "text": "俺はチトセ・Yuta", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "30": {
+        "text": "あなたの名前は？", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "31": {
+        "text": "私はヒエヌキ・Momiと申します", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "32": {
+        "text": "申すだって", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "33": {
+        "text": "変でしょうか？", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "34": {
+        "text": "まぁね", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "35": {
+        "text": "少なくとも俺は言わないかな", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "36": {
+        "text": "高校生？", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "37": {
+        "text": "１５歳です", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "38": {
+        "text": "じゃあ、同い年だ", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "39": {
+        "text": "どうして、年齢を尋ねたのでしょうか？", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "40": {
+        "text": "歳が近そうに思ったから", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "41": {
+        "text": "近いと何か良いことがありますか？", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "42": {
+        "text": "歳が近いと少し緊張が和らぐ気がする", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "43": {
+        "text": "そんなことない？", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "44": {
+        "text": "初対面の方とは程よい緊張が必要と思います", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "45": {
+        "text": "緊張しているんだ", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "46": {
+        "text": "えぇ", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "47": {
+        "text": "誰かを待っているの？", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "48": {
+        "text": "いいえ", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "49": {
+        "text": "ふーん、理由は教えてくれないんだ", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "50": {
+        "text": "尋ねられていませんから", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "51": {
+        "text": "面白い人だね", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "52": {
+        "text": "そうですか", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "53": {
+        "text": "彼女は顔を上げない", 
+        "name": "", 
+        "loc": "center"
+    }, 
+    "54": {
+        "text": "なんだか機械と話しているみたいだ", 
+        "name": "", 
+        "loc": "center"
+    }, 
+    "55": {
+        "text": "機械と話しているみたいだと思いましたね？", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "56": {
+        "text": "心を読めるの？", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "57": {
+        "text": "そうだと言ったら？", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "58": {
+        "text": "信じてしまうかもしれない", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "59": {
+        "text": "単純ですね", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "60": {
+        "text": "ヒエヌキ・Momiは笑った", 
+        "name": "", 
+        "loc": "center"
+    }, 
+    "61": {
+        "text": "人間じゃないか", 
+        "name": "", 
+        "loc": "center"
+    }, 
+    "62": {
+        "text": "冗談です", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "63": {
+        "text": "心なんて読みません", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "64": {
+        "text": "ただ、予測しただけ", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "65": {
+        "text": "それを心を読むと言うんじゃない？", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "66": {
+        "text": "そうかもしれません", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "67": {
+        "text": "もし、人間の心を読むことができる装置があったとして、それは心を持っているでしょうか？", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "68": {
+        "text": "どうだろう", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "69": {
+        "text": "考えたことがないな", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "70": {
+        "text": "では、考えてみて下さい", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "71": {
+        "text": "うーん", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "72": {
+        "text": "心を持っているとは言えないんじゃないかな", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "73": {
+        "text": "どうしてでしょうか？", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "74": {
+        "text": "心は取り出せないから", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "75": {
+        "text": "心臓の様に？", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "76": {
+        "text": "そう", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "77": {
+        "text": "では、心臓を持っていたとしたら？", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "78": {
+        "text": "人間と同じ見た目をしていたら？", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "79": {
+        "text": "あなたはきっと心を持っていると判断しましょう", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "80": {
+        "text": "それは君には心がないと言っているの？", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "81": {
+        "text": "そうではありません", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "82": {
+        "text": "私が心を読むとしたら、それはテクニカルな理由によるものです", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "83": {
+        "text": "超能力ではないというわけだ", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "84": {
+        "text": "そうです", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "85": {
+        "text": "人間に備わっている範疇の能力です", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "86": {
+        "text": "君は人間？", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "87": {
+        "text": "もちろん", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "88": {
+        "text": "私が人間だと何か良いことがありますか？", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "89": {
+        "text": "彼女は笑った", 
+        "name": "", 
+        "loc": "center"
+    }, 
+    "90": {
+        "text": "人間同士は友達になることができる", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "91": {
+        "text": "そうですね", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "92": {
+        "text": "人間でなければ、いけませんか？", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "93": {
+        "text": "そんなことはない", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "94": {
+        "text": "あなたと友達になりたい", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "95": {
+        "text": "友達ですか", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "96": {
+        "text": "嫌か？", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "97": {
+        "text": "友達になりたいと言われたのは初めての経験です", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "98": {
+        "text": "友達になりたいと言ったのは初めてだ", 
+        "name": "Yuta", 
+        "loc": "right"
+    }, 
+    "99": {
+        "text": "知人から始めましょう", 
+        "name": "Momi", 
+        "loc": "left"
+    }, 
+    "100": {
+        "text": "こうやって、他愛のない話をして、少しずつお互いを知っていくのです", 
+        "name": "Momi", 
+        "loc": "left"
+    }
+}
