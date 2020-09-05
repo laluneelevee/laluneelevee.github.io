@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>La Lune Élevée</title>
-    <link>https://laluneelevee.github.io/</link>
-    <description>Recent content on La Lune Élevée</description>
+    <title>Posts on La Lune Élevée</title>
+    <link>https://laluneelevee.github.io/posts/</link>
+    <description>Recent content in Posts on La Lune Élevée</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Sep 2020 01:18:45 +0900</lastBuildDate>
     
-	<atom:link href="https://laluneelevee.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://laluneelevee.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test</title>
-      <link>https://laluneelevee.github.io/chatstory/test/</link>
-      <pubDate>Thu, 03 Sep 2020 01:18:45 +0900</pubDate>
-      
-      <guid>https://laluneelevee.github.io/chatstory/test/</guid>
-      <description>tricky freaky fask 未来に消えて</description>
-    </item>
     
     <item>
       <title>Test</title>
