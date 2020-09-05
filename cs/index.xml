@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CSs on La Lune Élevée</title>
+    <title>Cs on La Lune Élevée</title>
     <link>https://laluneelevee.github.io/cs/</link>
-    <description>Recent content in CSs on La Lune Élevée</description>
+    <description>Recent content in Cs on La Lune Élevée</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Sep 2020 01:18:45 +0900</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>Test</title>
-      <link>https://laluneelevee.github.io/cs/korl/</link>
+      <link>https://laluneelevee.github.io/cs/test/</link>
       <pubDate>Thu, 03 Sep 2020 01:18:45 +0900</pubDate>
       
-      <guid>https://laluneelevee.github.io/cs/korl/</guid>
+      <guid>https://laluneelevee.github.io/cs/test/</guid>
       <description></description>
     </item>
     
