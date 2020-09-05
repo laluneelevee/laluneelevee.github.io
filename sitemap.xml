@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://laluneelevee.github.io/cs/</loc>
+    <lastmod>2020-09-03T01:18:45+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://laluneelevee.github.io/</loc>
     <lastmod>2020-09-03T01:18:45+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://laluneelevee.github.io/post/</loc>
+    <lastmod>2020-09-03T01:18:45+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laluneelevee.github.io/cs/test/</loc>
     <lastmod>2020-09-03T01:18:45+09:00</lastmod>
   </url>
   
