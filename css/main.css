@@ -99,9 +99,9 @@ a:hover {
 
 /* Colored borders at top/bottom of page */
 
-.navbar.navbar-default {
+/*.navbar.navbar-default {
     border-top: var(--border-width) solid var(--accent);
-}
+}*/
 
 footer {
     width: 100%;
