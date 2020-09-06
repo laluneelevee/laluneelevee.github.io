@@ -105,5 +105,6 @@ a:hover {
 
 footer {
     border-bottom: var(--border-width) solid var(--accent);
-    position: relative;
+    position: absolute;
+    bottom: 0;
 }
