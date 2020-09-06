@@ -99,10 +99,11 @@ a:hover {
 
 /* Colored borders at top/bottom of page */
 
-/*.navbar.navbar-default {
+.navbar.navbar-default {
     border-top: var(--border-width) solid var(--accent);
-}*/
+}
 
-/*footer {
+footer {
     border-bottom: var(--border-width) solid var(--accent);
-}*/
+    position: relative;
+}
