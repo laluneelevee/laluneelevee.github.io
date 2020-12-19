@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on La Lune Élevée</title>
-    <link>https://laluneelevee.github.io/posts/</link>
+    <link>https://laluneelevee.github.io/post/</link>
     <description>Recent content in Posts on La Lune Élevée</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Dec 2020 01:54:15 +0900</lastBuildDate>
     
-	<atom:link href="https://laluneelevee.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://laluneelevee.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to Deploy Articles on Hugo Web Site Hosted on GitHub</title>
-      <link>https://laluneelevee.github.io/posts/how-to-deploy-articles-on-hugo-web-site-hosted-on-github/</link>
+      <link>https://laluneelevee.github.io/post/how-to-deploy-articles-on-hugo-web-site-hosted-on-github/</link>
       <pubDate>Thu, 17 Dec 2020 01:54:15 +0900</pubDate>
       
-      <guid>https://laluneelevee.github.io/posts/how-to-deploy-articles-on-hugo-web-site-hosted-on-github/</guid>
+      <guid>https://laluneelevee.github.io/post/how-to-deploy-articles-on-hugo-web-site-hosted-on-github/</guid>
       <description>How to deploy articles on Hugo website hosted on GitHub Create a deploy.sh script. Shell command should be activated by executing a chmod +x deploy.sh commmand. The following are the contents of the deploy.sh script:
 #!/bin/sh # If a command fails then the deploy stops set -e printf &amp;quot;\033[0;32mDeploying updates to GitHub...\033[0m\n&amp;quot; # Build the project. hugo # if using a theme, replace with `hugo -t &amp;lt;YOURTHEME&amp;gt;` # Go To Public folder cd public # Add changes to git.</description>
     </item>
