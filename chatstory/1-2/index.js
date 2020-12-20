@@ -3,7 +3,7 @@ $(function(){
 	var i = 0;
 
 	$.ajax({
-		url: "1-2.json",
+		url: "1-1.json",
 		dataType: "json",
 	})
 	.done(function(data){
