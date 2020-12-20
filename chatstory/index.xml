@@ -6,10 +6,19 @@
     <description>Recent content in Chatstories on La Lune Élevée</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2020 01:18:45 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 20 Dec 2020 18:18:28 +0900</lastBuildDate>
     
 	<atom:link href="https://laluneelevee.github.io/chatstory/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>1 2</title>
+      <link>https://laluneelevee.github.io/chatstory/1-2/</link>
+      <pubDate>Sun, 20 Dec 2020 18:18:28 +0900</pubDate>
+      
+      <guid>https://laluneelevee.github.io/chatstory/1-2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Test</title>
