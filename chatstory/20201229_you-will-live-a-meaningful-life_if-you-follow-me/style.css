@@ -74,7 +74,6 @@ footer {
 .says-left {
   display: inline-block;
   position: relative; 
-  float: left;
   margin: 0px 0 0 100px;   /* left-ballonの位置 */
   padding: 17px 13px;
   border-radius: 12px;
