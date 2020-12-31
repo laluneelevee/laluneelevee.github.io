@@ -19,9 +19,10 @@ footer {
 #tap {
     position: fixed;
     width: 100%;
+    left: 50%;
+    margin-left: -100px;
     text-align: center;
     bottom: 20px;
-    z-index: 9000;
 }
 
 #tap a {
@@ -34,8 +35,6 @@ footer {
     background-color: #dcdcdc;
     border: 1px solid #FFF;
     border-radius: 20px;
-    margin-left: auto;
-    margin-right: auto;
     margin-top: auto;
 }
 
