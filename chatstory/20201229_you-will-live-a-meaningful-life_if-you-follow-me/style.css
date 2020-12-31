@@ -61,7 +61,7 @@ footer {
 }
 
 .balloon-left .charname{
-  margin-top: 0px;
+  margin-top: -5px;
   text-align: center;
   font-size: 12px;
   font-family: sans-serif;
