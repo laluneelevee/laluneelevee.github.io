@@ -9,14 +9,14 @@ body {
     text-align: center;
     flex-direction: column;
 }
-
+*/
 main {
     margin: auto;
     padding: 25px;
     flex: 1 0 auto;
     max-width: 750000px;
 }
-*/
+
 
 img {
     max-width: 100%;
