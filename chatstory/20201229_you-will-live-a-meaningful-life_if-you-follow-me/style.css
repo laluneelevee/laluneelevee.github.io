@@ -1,12 +1,11 @@
-body, #wrapper {
-  padding-top: 55px;
-  display: center;
-  background-color: #FF0FFF;
-  /*flex-direction: column;*/
-  margin-left: auto;
-  margin-right: auto;
-  min-height: 100vh;
-  max-width: 100vh;
+main, #wrapper {
+    padding-top: 55px;
+    display: center;
+    background-color: #FF0FFF;
+    margin-left: auto;
+    margin-right: auto;
+    /*min-height: 100vh;*/
+    max-width: 100vh;
 }
 
 footer {
