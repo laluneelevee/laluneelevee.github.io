@@ -5,7 +5,7 @@ main, #wrapper {
     margin-left: auto;
     margin-right: auto;
     /*min-height: 100vh;*/
-    max-width: 100vh;
+    max-width: 750000px;
 }
 
 footer {
