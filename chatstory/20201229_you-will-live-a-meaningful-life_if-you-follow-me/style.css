@@ -22,7 +22,7 @@ footer {
 /* Tap    */
 /**********/
 #tap {
-    position: fixed;
+    position: absolute;
     width: 100%;
     left: 50%;
     margin-left: -100px;
