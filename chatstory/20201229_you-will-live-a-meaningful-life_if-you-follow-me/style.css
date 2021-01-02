@@ -8,6 +8,13 @@ main, #wrapper {
     /*max-width: 300vh;*/
 }
 
+body {
+    padding-top: 55px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+
 footer {
     background-color: #FFFF0F;
     width: 100%;
