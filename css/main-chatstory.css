@@ -6,13 +6,12 @@ body {
 }
 
 main, #wrapper {
-    /*padding-top: 55px; */
     display: center;
     background-color: #FFFFFF;
     margin-left: auto;
     margin-right: auto;
     height: 100%;
-    /*max-width: 300vh;*/
+    max-width: 300vh;
 }
 
 footer {
