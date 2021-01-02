@@ -1,11 +1,12 @@
+/*
 main, #wrapper {
-    /*padding-top: 55px; */
+    
     display: center;
     background-color: #FF0FFF;
     margin-left: auto;
     margin-right: auto;
     height: 100%;
-    /*max-width: 300vh;*/
+    
 }
 
 body {
@@ -14,6 +15,7 @@ body {
     text-align: center;
     flex-direction: column;
 }
+
 
 footer {
     background-color: #FFFF0F;
@@ -24,6 +26,7 @@ footer {
     margin-right: auto;
     margin-top: auto;
 }
+*/
 
 /**********/
 /* Tap    */
