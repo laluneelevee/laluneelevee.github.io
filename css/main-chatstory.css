@@ -105,15 +105,174 @@ a:hover {
     display: inline-block !important;
 }
 
-/* Colored borders at top/bottom of page */
-
-/*.navbar.navbar-default {
-    border-top: var(--border-width) solid var(--accent);
-}*/
-
-/*footer {
+/**********/
+/* Tap    */
+/**********/
+#tap {
+    position: fixed;
     width: 100%;
-    border-bottom: var(--border-width) solid var(--accent);
-    position: absolute;
-    bottom: 0;
-}*/
+    left: 50%;
+    margin-left: -100px;
+    text-align: center;
+    bottom: 20px;
+}
+
+#tap a {
+    width: 200px;
+    height: 70px;
+    display: block;
+    line-height: 70px;
+    font-size: 16px;
+    font-family: sans-serif;
+    background-color: #dcdcdc;
+    border: 1px solid #FFF;
+    border-radius: 20px;
+    margin-top: auto;
+}
+
+/*****************/
+/* balloon left */
+/*****************/
+.balloon-left {
+  width: 100%;
+  margin: 0 0;  /*  balloon間のmargin */
+  overflow: hidden;
+}
+
+.balloon-left .faceicon {
+  float: left;
+  margin-right: -90px;
+  height: 95px;
+}
+
+.balloon-left .faceicon img{
+  width: auto;
+  height: 70px;
+  border: solid 3px #f2b1b2;
+  border-radius: 50%;
+}
+
+.balloon-left .charname{
+  margin-top: -5px;
+  text-align: center;
+  font-size: 12px;
+  font-family: sans-serif;
+}
+
+.balloon-left .chatting {
+  width: 100%;
+}
+
+.says-left {
+  display: inline-block;
+  position: relative; 
+  float: left;
+  margin: 0px 0 0 100px;   /* left-ballonの位置 */
+  padding: 17px 13px;
+  border-radius: 12px;
+  background: #f2b1b2;
+  font-family: sans-serif;
+}
+
+.says-left:after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  top: 18px; 
+  left: -24px;
+  border: 12px solid transparent;
+  border-right: 12px solid #f2b1b2;
+}
+
+.says-left p {
+  margin: 0;
+  padding: 0;
+}
+
+/*****************/
+/* balloon right */
+/*****************/
+.balloon-right {
+  width: 100%;
+  margin: 0 0;
+  overflow: hidden;
+}
+
+.balloon-right .faceicon {
+  float: right;
+  margin-left: -90px;
+  height: 95px;
+}
+
+.balloon-right .faceicon img{
+  width: auto;
+  height: 70px;
+  border: solid 3px #dbd0e6;
+  border-radius: 50%;
+}
+
+.balloon-right .charname{
+  text-align: center;
+  margin-top: -5px;
+  font-size: 12px;
+  font-family: sans-serif;
+}
+
+.balloon-right .chatting {
+  width: 100%;
+}
+
+.says-right {
+  display: inline-block;
+  position: relative;   
+  float: right;
+  margin: 5px 100px 0 0;   /* right-ballonの位置 */
+  padding: 17px 13px;
+  border-radius: 12px;
+  background: #dbd0e6;
+  font-family: sans-serif;
+}
+
+.says-right:after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  top: 18px; 
+  right: -24px;
+  border: 12px solid transparent;
+  border-left: 12px solid #dbd0e6;
+}
+
+.says-right p {
+  margin: 0;
+  padding: 0;
+}
+
+/******************/
+/* balloon center */
+/******************/
+.balloon-center {
+  width: 100%;
+  margin: 1.5em 0;
+  overflow: hidden;
+  text-align: center;
+}
+
+.says-center {
+  display: inline-block;
+  position: relative;
+  padding: 17px 13px;
+  min-width: 120px;
+  max-width: 100%;
+  font-family: sans-serif;
+  font-size: 16px;
+  background: #dcdcdc;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.balloon-center p {
+  margin: 0;
+  padding: 0;
+}
