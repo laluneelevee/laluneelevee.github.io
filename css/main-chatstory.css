@@ -1,23 +1,29 @@
-/*html, body {
-    height: 100%;
-}
-*/
-/*
 body {
     padding-top: 55px;
     display: flex;
     text-align: center;
     flex-direction: column;
 }
-*/
-/*
-main {
-    margin: auto;s
-    padding: 25px;
-    flex: 1 0 auto;
-    max-width: 750000px;
+
+main, #wrapper {
+    /*padding-top: 55px; */
+    display: center;
+    background-color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    /*max-width: 300vh;*/
 }
-*/
+
+footer {
+    background-color: #FFFFFF;
+    width: 100%;
+    height: 100px;
+    line-height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
 
 img {
     max-width: 100%;
