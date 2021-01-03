@@ -3,7 +3,7 @@ $(function(){
 	var i = 0;
 
 	$.ajax({
-		url: "20201229_You-will-live-a-meaningful-life,if-you-follow-me.json",
+		url: "20201229_you-will-live-a-meaningful-life_if-you-follow-me.json",
 		dataType: "json",
 	})
 	.done(function(data){
