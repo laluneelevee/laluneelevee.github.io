@@ -23,7 +23,7 @@ $(function(){
 			}
 			cl_s3 =   "<div class=\"" + "chatting" + "\" >";
 			cl_s4 =     "<div class=\"" + "says-" +value.loc + "\" >";
-			txt1  =        "<p>" + value.text + "</p>";
+			txt1  =        "<p align =\"" + "left\">" + value.text + "</p>";
 			cl_e4 =     "</div>";
 			cl_e3 =   "</div>";
 			cl_e1 = "</div>";
