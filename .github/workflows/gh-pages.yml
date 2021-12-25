@@ -29,6 +29,6 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.MyToken20211218 }}
-          #publish_dir: ./public
+          publish_dir: ./public
           #publish_branch: master
-          external_repository: laluneelevee/laluneelevee.github.io
+          #external_repository: laluneelevee/laluneelevee.github.io
